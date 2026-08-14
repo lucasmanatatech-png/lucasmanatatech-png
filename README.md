@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Lucas Manata
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC0FF&width=435&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+PUC+Minas;Estudante+de+C+%2B%2B+e+Web+Dev;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6CC0FF&width=435&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+PUC+Minas;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 Estudante de **Ciência da Computação** na PUC Minas 🎓, apaixonado por lógica de programação, algoritmos e desenvolvimento web. Este perfil é o meu laboratório: cada repositório guarda um pedaço da minha evolução. 🚀
 
