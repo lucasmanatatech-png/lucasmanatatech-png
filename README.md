@@ -7,9 +7,9 @@ Estudante de **Ciência da Computação** na PUC Minas 🎓, apaixonado por lóg
 ## Sobre mim 💡
 
 - 🔭 Atualmente estudando **C,  Algoritmos e Estruturas de Dados II, Banco de Dados I, Cálculo II, Desenvolvimento de Interfaces Web e Engenharia de Software I**
-- 🌱 Aprendendo **Programação Competitiva**
+- 🌱 Aprendendo **Programação Competitiva e Java**
 - 🧠 Foco em resolver problemas com código limpo e eficiente
-- 🎯 Meta: me tornar um desenvolvedor completo, do C ao front-end
+- 🎯 Meta: me tornar um desenvolvedor completo
 - 💬 Me pergunte sobre **C**, **lógica de programação** ou **HTML/CSS**
 
 ## Tecnologias que uso 🛠️
